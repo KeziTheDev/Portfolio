@@ -1,0 +1,135 @@
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+  font-size: 90px;
+  line-height: 2;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+  font-weight: normal;
+}
+h3 {
+  color: #11999E;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+hr {
+
+  border-style: dotted none none;
+  border-color: #EAF6F6;
+  border-width: 8px;
+  width: 70px;
+  margin: 50px auto 50px auto;
+
+}
+a {
+  color: #11999E;
+  text-decoration: none;
+  font-size: 20px;
+  margin: auto 20px auto 20px;
+
+}
+a:hover {
+  color: #E4F9F5;
+}
+.signature {
+  color: #EAF6F6;
+  margin-top: 50px;
+}
+.mountain-img {
+  width: 800px;
+}
+.profil-img {
+  height: 180px;
+  width:180px;
+  border-radius: 50%;
+}
+.skill-row1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+
+}
+.skill-row2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 50%;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 150px;
+
+}
+
+.middle-container {
+  margin-top: 75px;
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 80px;
+  padding-bottom: 40px;
+
+
+}
+
+.bottom-cloud {
+  height: 65px;
+  width: 200px;
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+.BUTTON_WWP {
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+   color: #FFFFFF;
+   font-family: 'Merriweather', serif;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 20px auto 30px auto;
+}
+
+.BUTTON_WWP:hover {
+   background: #11999E;
+   border: solid #337FED 0;
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+   text-decoration: none;
+}
